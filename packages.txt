@@ -1,0 +1,5 @@
+libpango1.0-dev
+libharfbuzz-dev
+libffi-dev
+libjpeg-dev
+libopenjp2-7-dev
